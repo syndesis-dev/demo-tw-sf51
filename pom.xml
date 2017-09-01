@@ -8,7 +8,7 @@
   <artifactId>project</artifactId>
   <version>0.1-SNAPSHOT</version>
   <name>Syndesis Integrations :: demo-tw-sf51</name>
-  
+  <description>My demo</description>
   <packaging>jar</packaging>
 
   <properties>
